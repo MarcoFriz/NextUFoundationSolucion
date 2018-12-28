@@ -1,0 +1,14 @@
+{
+  "name": "nextufoundationsolucion",
+  "version": "1.0.0",
+  "description": "Proyecto base para NextU",
+  "main": "server/index.js",
+  "scripts": {
+    "test": "echo \"Hola Mundo\""
+  },
+  "keywords": [
+    "NextU"
+  ],
+  "author": "Marco Friz",
+  "license": "MIT"
+}
